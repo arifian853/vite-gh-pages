@@ -172,7 +172,7 @@ After the building and queue process is finished, just simply click the "View De
 
 And voila, your site is now hosted on GitHub Pages!
 
-<img src="https://raw.githubusercontent.com/arifian853/mini-readme-cdn/main/vite-gh-pages/8.png" />
+<img src="https://raw.githubusercontent.com/arifian853/mini-readme-cdn/main/vite-gh-pages/9.png" />
 
 
 ---
