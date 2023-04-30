@@ -167,7 +167,7 @@ After that, click the github-pages in the environment section and just wait unti
 
 ## 11. Finish
 
-After the building and queue process is finished, just simply click the "See Deployment" button : 
+After the building and queue process is finished, just simply click the "View Deployment" button : 
 
 <img src="https://raw.githubusercontent.com/arifian853/mini-readme-cdn/main/vite-gh-pages/18.png" />
 
