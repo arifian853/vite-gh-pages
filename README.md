@@ -177,6 +177,6 @@ And voila, your site is now hosted on GitHub Pages!
 
 ---
 
-And that's it, thanks for reading this damn long tutorial. Feel free to correct my grammar mistakes or a wrong steps.
+And that's it, thanks for reading this long tutorial. Feel free to correct my grammar mistakes or a wrong steps.
 
 Thank you :)
