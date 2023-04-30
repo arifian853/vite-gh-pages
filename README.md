@@ -1,5 +1,5 @@
 
-# How to host Vite + React in Github Pages with gh-pages
+<h1> How to host Vite + React in Github Pages with gh-pages </h1>
 
 This tutorial will using npm as the package manager. Feel free to use another package manager like yarn or pnpm :)
 
