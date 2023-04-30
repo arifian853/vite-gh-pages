@@ -1,7 +1,7 @@
 
 <h1 align="center"> How to host Vite + React in Github Pages with gh-pages </h1>
 
-This tutorial will using npm as the package manager. Feel free to use another package manager like yarn or pnpm :)
+<p align="center"> This tutorial will using npm as the package manager. Feel free to use another package manager like yarn or pnpm :) </p>
 
 <p align="center">
 <img src="https://vitejs.dev/logo.svg" height="100px" width="100px" />
@@ -9,8 +9,7 @@ This tutorial will using npm as the package manager. Feel free to use another pa
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="100px" width="100px" />
  </p>
 
-
-A bit of simple tutorial to host your static page in github pages with gh-pages npm module.
+<p align="center"> A bit of simple tutorial to host your static page in github pages with gh-pages npm module. </p>
 
 ## 1. Install Vite
 Install vite in your project codespace with the terminal/cmd/git bash
